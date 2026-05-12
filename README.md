@@ -121,7 +121,7 @@ O diagrama de sequência representa a troca de mensagens entre os objetos do sis
 
 ### 💻 Código
 
-Arquivo: [`aula-07-sequencia/aula07.ipynb`](aula-07-sequencia/transferencia_nubank.ipynb)
+Arquivo: [`transferencia_nubank.ipynb`](aula-07-sequencia/transferencia_nubank.ipynb)
 
 O notebook contém exemplos relacionados à comunicação entre objetos e à execução sequencial das operações do sistema.
 
@@ -141,7 +141,7 @@ O diagrama de classes apresenta a estrutura do sistema orientado a objetos, incl
 
 ### 💻 Código
 
-Arquivo: [`aula-08-classes/aula08.ipynb`](aula-08-classes/streaming_netflix.ipynb)
+Arquivo: [`streaming_netflix.ipynb`](aula-08-classes/streaming_netflix.ipynb)
 
 O notebook apresenta exemplos práticos relacionados à modelagem orientada a objetos e à organização estrutural das classes do sistema usando de exemplo streaming de netflix.
 
