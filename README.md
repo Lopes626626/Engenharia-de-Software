@@ -26,7 +26,7 @@ Antes de executar os exercícios, é necessário possuir:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Lopes626626/Engenharia-de-Software.git
 ```
 
 Acesse a pasta do projeto:
